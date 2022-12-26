@@ -6,7 +6,7 @@
         "Mongo DB", 
         "Telegram Bot"
     ],
-    "repository": "https://github.com/oVo-HxBots/RENAME-PRO",
+    "repository": "https://github.com/dstamil/RENAME-PRO",
     "success_url": "https://t.me/HxBots",
     "env": {
         "APP_ID": {
